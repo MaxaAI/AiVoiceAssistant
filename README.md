@@ -7,3 +7,6 @@ Step 2: create a .env file and put in
   ELEVEN_API_KEY=(your elevenlabs api key)
   GOOGLE_CSE_ID= (Google Search id from google cloud)
   GOOGLE_API_KEY=(google search api key from google cloud)
+
+
+Step 3: Run the app.py and enjoy talking to you Voice assistant
