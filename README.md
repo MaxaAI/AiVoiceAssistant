@@ -1,5 +1,7 @@
 # AiVoiceAssistant
 Step 1: pip install -r requirements.txt
+
+
 Step 2: create a .env file and put in
   OPENAI_API_KEY=(your openai api key)
   ELEVEN_API_KEY=(your elevenlabs api key)
