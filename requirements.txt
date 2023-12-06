@@ -1,0 +1,5 @@
+elevenlabs
+openai
+SpeechRecognition
+python-dotenv
+langchain
